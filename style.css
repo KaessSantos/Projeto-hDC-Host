@@ -65,12 +65,13 @@ nav{
 }
 
 .btn{
+    position: relative;
     padding: 15px 25px;
     background-color: #2cc76a;
     border-radius: 5px;
     color: white; 
     border: none;
-    
+    margin-left: 10px;
 }
 
 .btn:hover{
