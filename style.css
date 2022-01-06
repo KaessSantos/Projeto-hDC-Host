@@ -419,6 +419,12 @@ footer strong {
         box-sizing: border-box;
     }
 
+    .btn{
+        width: 100%;
+        max-width: 100%;
+        padding-left: 10px;
+    }
+
 }
 
 
