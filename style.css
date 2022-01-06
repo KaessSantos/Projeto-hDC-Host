@@ -395,7 +395,7 @@ footer strong {
 
     .menu-nav-links{
         font-size: 12px;
-        margin-left: 10px;
+        margin-left: 5px;
     }
 
     .plan{
@@ -421,11 +421,7 @@ footer strong {
         box-sizing: border-box;
     }
 
-    .btn{
-        width: 100%;
-        max-width: 100%;
-        padding-left: 10px;
-    }
+    
 
     .especialidades-container ul li{
         width: 100%;
