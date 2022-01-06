@@ -393,9 +393,9 @@ footer strong {
         overflow-x: hidden;
     }
 
-    .menu-nav-links, .btn{
+    .menu-nav-links .btn{
         font-size: 12px;
-        margin-left: 15px;
+        margin-left: 10px;
     }
 
     .plan{
