@@ -427,6 +427,11 @@ footer strong {
         padding-left: 10px;
     }
 
+    .especialidades-container ul li{
+        width: 100%;
+        max-width: 100%;
+    }
+
 }
 
 
