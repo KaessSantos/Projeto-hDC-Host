@@ -120,6 +120,7 @@ nav{
 
 .especialidades-container ul {
     display: flex;
+    flex-wrap: wrap;
     width: 90%;
     position: relative;
     margin-left: auto;
