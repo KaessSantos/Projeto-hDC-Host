@@ -149,7 +149,7 @@ nav{
 
 
 .precos{
-    padding-bottom: 5em;
+    padding-bottom: 2em;
     text-align: center;
 }
 
@@ -396,6 +396,10 @@ footer strong {
     .menu-nav-links{
         font-size: 12px;
         margin-left: 10px;
+    }
+
+    .precos{
+        padding-bottom: 1em;
     }
 
     
