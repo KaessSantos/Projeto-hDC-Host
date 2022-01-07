@@ -428,9 +428,12 @@ footer strong {
 
     
 
-    .especialidades-container ul li{
+    .especialidades-container {
         width: 100%;
         max-width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
     }
 
 }
