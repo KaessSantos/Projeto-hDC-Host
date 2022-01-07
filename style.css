@@ -398,10 +398,7 @@ footer strong {
         margin-left: 10px;
     }
 
-    .btn{
-        font-size: 12px;
-        margin-left: 10px;
-    }
+    
 
     .plan{
         width: 100%;
@@ -425,8 +422,6 @@ footer strong {
         margin-right: 0px;
         box-sizing: border-box;
     }
-
-    
 
     .especialidades-container {
         flex-wrap: wrap;
