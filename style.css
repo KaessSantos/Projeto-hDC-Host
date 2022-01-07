@@ -429,10 +429,7 @@ footer strong {
     
 
     .especialidades-container {
-        width: 100%;
-        max-width: 100%;
-        padding-left: 10px;
-        padding-right: 10px;
+        flex-wrap: wrap;
         padding-bottom: 10px;
     }
 
