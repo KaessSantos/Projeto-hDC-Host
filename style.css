@@ -393,7 +393,12 @@ footer strong {
         overflow-x: hidden;
     }
 
-    .menu-nav-links .btn{
+    .menu-nav-links{
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    .btn{
         font-size: 12px;
         margin-left: 10px;
     }
