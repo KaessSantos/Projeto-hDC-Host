@@ -65,7 +65,7 @@ nav{
 }
 
 .btn{
-    position: relative;
+    
     padding: 15px 25px;
     background-color: #2cc76a;
     border-radius: 5px;
@@ -394,8 +394,8 @@ footer strong {
     }
 
     .menu-nav-links{
-        font-size: 10px;
-        margin-left: 13px;
+        font-size: 12px;
+        margin-left: 10px;
     }
 
     .precos{
