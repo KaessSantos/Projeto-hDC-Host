@@ -393,10 +393,7 @@ footer strong {
         overflow-x: hidden;
     }
 
-    .menu-nav-links{
-        font-size: 12px;
-        margin-left: 10px;
-    }
+
 
     .precos{
         padding-bottom: 1em;
@@ -427,7 +424,7 @@ footer strong {
         box-sizing: border-box;
     }
 
-    .especialidades-container {
+    .especialidades-container ul li {
         flex-wrap: wrap;
         padding-bottom: 10px;
     }
