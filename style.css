@@ -31,6 +31,19 @@ p {
     box-sizing: border-box  ;
 }
 
+#btn{
+    font-size: 2rem;
+}
+
+.fa-sharp{
+    z-index: 999;
+    position:fixed;
+    right:15px;
+    bottom: 10px;
+    cursor: pointer;
+    color: green;
+}
+
 .logo-nav{
     width: 50px;
     margin-top: 15px;
